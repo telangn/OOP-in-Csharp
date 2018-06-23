@@ -1,0 +1,11 @@
+/home/ninad/MSVSCode/bin/Debug/netcoreapp2.1/MSVSCode.deps.json
+/home/ninad/MSVSCode/bin/Debug/netcoreapp2.1/MSVSCode.runtimeconfig.json
+/home/ninad/MSVSCode/bin/Debug/netcoreapp2.1/MSVSCode.runtimeconfig.dev.json
+/home/ninad/MSVSCode/bin/Debug/netcoreapp2.1/MSVSCode.dll
+/home/ninad/MSVSCode/bin/Debug/netcoreapp2.1/MSVSCode.pdb
+/home/ninad/MSVSCode/obj/Debug/netcoreapp2.1/MSVSCode.csprojAssemblyReference.cache
+/home/ninad/MSVSCode/obj/Debug/netcoreapp2.1/MSVSCode.csproj.CoreCompileInputs.cache
+/home/ninad/MSVSCode/obj/Debug/netcoreapp2.1/MSVSCode.AssemblyInfoInputs.cache
+/home/ninad/MSVSCode/obj/Debug/netcoreapp2.1/MSVSCode.AssemblyInfo.cs
+/home/ninad/MSVSCode/obj/Debug/netcoreapp2.1/MSVSCode.dll
+/home/ninad/MSVSCode/obj/Debug/netcoreapp2.1/MSVSCode.pdb
